@@ -20,3 +20,28 @@ Each folder has Jupyter notebooks that explain a concept in my own words, with w
 | 2 | Grover, QFT, phase estimation | Not started |
 | 3 | State-vector simulator | Not started |
 | 4 | Noise study on real IBM hardware | Not started |
+
+## Resources
+
+**Main book**
+- Chris Bernhardt, *Quantum Computing for Everyone* (MIT Press, 2019). I'm reading it chapter by chapter and keeping notes in folders like `ch01-spin/`.
+
+**Basics**
+- *Quantum Computing for the Quantum Curious* (free textbook)
+- Michael Nielsen, *Quantum Computing for the Very Curious*
+- Qiskit YouTube channel
+
+**Maths**
+- IBM Quantum Learning: *Basics of Quantum Information*
+- Quantum Country
+- 3Blue1Brown, *Essence of Linear Algebra*
+
+**Programming**
+- IBM Quantum Platform and Qiskit tutorials
+- Xanadu Codebook
+
+**Algorithms and advanced**
+- IBM Quantum Learning: *Fundamentals of Quantum Algorithms*
+- CERN, *Practical Introduction to Quantum Computing*
+- Nielsen and Chuang, *Quantum Computation and Quantum Information*
+- arXiv (quant-ph)
