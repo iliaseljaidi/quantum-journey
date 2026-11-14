@@ -14,7 +14,7 @@ Each folder has Jupyter notebooks that explain a concept in my own words, with w
 
 | Phase | Topic | Status |
 | --- | --- | --- |
-| 1 | Book ch. 1 Spin (notes in `ch01-spin/`) | Notes done, simulation to do |
+| 1 | Book ch. 1 Spin (notes in `ch01-spin/`) | Notes and simulation done |
 | 1 | Linear algebra and complex numbers | In progress |
 | 1 | Qubits, gates and Bell states (Qiskit) | Not started |
 | 2 | Grover, QFT, phase estimation | Not started |

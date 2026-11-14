@@ -74,4 +74,4 @@ Classically you would expect all 50 to still be N vertically. They aren't.
 
 ## To do
 
-- [ ] Python notebook: simulate the vertical, horizontal, vertical experiment and check the 50/50 results
+- [x] Python notebook: [spin-simulation.ipynb](spin-simulation.ipynb) simulates the vertical, horizontal, vertical experiment and checks the 50/50 results
